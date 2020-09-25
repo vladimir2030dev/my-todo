@@ -2,6 +2,6 @@
 
 ## Использован:
 
-React + React Hooks + Firebase
+React + React Hooks + Firebase + Bootstrap v4
 
 /*Без Redux*/
